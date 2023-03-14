@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105605332339",
+    "project_id": "test-memo-app-eadad",
+    "storage_bucket": "test-memo-app-eadad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105605332339:android:708d8a0a84d983dfa59906",
+        "android_client_info": {
+          "package_name": "com.example.memo_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105605332339-8hh3pqenck1a6843lnf3eiq7b5ua6si6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0SWa_X_OxNwMYXu1tpqnswIN-g3t4Rs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105605332339-8hh3pqenck1a6843lnf3eiq7b5ua6si6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
